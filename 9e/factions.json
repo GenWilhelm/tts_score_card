@@ -83,7 +83,7 @@
 								{
 									"id": "EW.03.04.01a",
 									"name": "Awaken Ancient Machinery (Action)",
-									"description": "[i]Action[/i]\nAt the end of your Movement phase, one or more NECRONS CORE or NECRONS CANOPTEK units from your army can start to perform this action. Each unit from your army that starts to perform this action must be in range of a different Ancient Machinery objective marker. A unit cannot start this action while there are any enemy units (excluding AIRCRAFT) in range of the same objective marker. Ihe action is completed at the end of your next Command phase, provided the unit attempting that action is still within range of that Ancient Machinery objective marker."
+									"description": "[i]Action[/i]\nAt the end of your Movement phase, one or more NECRONS CORE or NECRONS CANOPTEK units from your army can start to perform this action. Each unit from your army that starts to perform this action must be in range of a different Ancient Machinery objective marker. A unit cannot start this action while there are any enemy units (excluding AIRCRAFT) in range of the same objective marker. The action is completed at the end of your next Command phase, provided the unit attempting that action is still within range of that Ancient Machinery objective marker."
 								}
 							]
 						}
@@ -221,6 +221,52 @@
 							"id": "EW.06.03.01",
 							"name": "Spread the Sickness",
 							"description": "[i]End Game Objective[/i]\nIf you select this objective, then Death Guard Infantry units in your army can perform the following action:\nSpread the Sickness (Action): One unit from your army can start to perform this action at the end of your Movement phase if it is within 3\" of an objective marker that has not been contaminated (see below). A unit cannot start this action while there are any enemy units (excluding Aircraft units) within 3\" of the same objective marker.\nThe action is completed at the end of your turn. When this action is completed, you can choose one of the following:\n- Roll one D6: on a 4+, that objective marker is said to have been contaminated.\n- The unit performing this action suffers D3 mortal wounds and that objective marker is said to have been contaminated. Score 3 victory points at the end of the battle for each objective marker on the battlefield that has been contaminated by a unit from your army."
+						}
+					]
+				}		
+			]
+		},
+		{
+			"faction": "BLOOD ANGELS",
+			"name": "Blood Angels",
+			"categories": [
+				{
+					"name": "Purge the Enemy",
+					"objectives": [
+						{
+							"id": "EW.07.01.01",
+							"name": "Blade of Sanguinius",
+							"description": "[i]End Game Objective[/i]\nAt the start of your first Command Phase, you must select one BLOOD ANGELS CHARACTER model from your army to issue a challenge and your opponent must select one CHARACTER model from their army to accept that challenge. If either player does not have a CHARACTER model, they must select their WARLORD.\nScore 5 victory points at the end of the battle for each of the following condition that have been satisfied:\n- The model that accepted the challenge was destroyed.\n- The model that accepted the challenge was destroyed by a melee attack.\n- The model that accepted the challenge was destroyed by a melee attack made by the model that issued the challenge."
+						}
+					]
+				},
+				{
+					"name": "No Mercy, No Respite",
+					"objectives": [
+						{
+							"id": "EW.07.02.01",
+							"name": "Fury of the Lost",
+							"description": "[i]Progressive Objective[/i]\nScore 3 victory points at the end of your turn if one or more enemy units have been destroyed by a DEATH COMPANY unit from you army this turn."
+						}
+					]
+				},
+				{
+					"name": "No Mercy, No Respite",
+					"objectives": [
+						{
+							"id": "EW.07.03.01",
+							"name": "Death from Above",
+							"description": "[i]Progressive Objective[/i]\nScore 2 victory points at the end of your turn if any enemy units were destroyed by a BLOOD ANGELS unit from your army that was set up on the battlefield in the Reinforcements step of any of your Movement phases. If any of those units were a CHARACTER unit, score 3 victory points instead."
+						}
+					]
+				},
+				{
+					"name": "Battlefield Supremacy",
+					"objectives": [
+						{
+							"id": "EW.07.04.01",
+							"name": "Relenteless Assault",
+							"description": "[i]Progressive Objective[/i]\nScore 4 victory points at the end of your turn if there are more BLOOD ANGELS units from your army in the enemy deployment zone than there are enemy units in your deployment zone."
 						}
 					]
 				}		
