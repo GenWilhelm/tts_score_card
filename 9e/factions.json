@@ -83,7 +83,7 @@
 								{
 									"id": "EW.03.04.01a",
 									"name": "Awaken Ancient Machinery (Action)",
-									"description": "[i]Action[/i]\nAt the end of your Movement phase, one or more NECRONS CORE or NECRONS CANOPTEK units from your army can start to perform this action. Each unit from your army that starts to perform this action must be in range of a different Ancient Machinery objective marker. A unit cannot start this action while there are any enemy units (excluding AIRCRAFT) in range of the same objective marker. Ihe action is completed at the end of your next Command phase, provided the unit attempting that action is still within range of that Ancient Machinery objective marker."
+									"description": "[i]Action[/i]\nAt the end of your Movement phase, one or more NECRONS CORE or NECRONS CANOPTEK units from your army can start to perform this action. Each unit from your army that starts to perform this action must be in range of a different Ancient Machinery objective marker. A unit cannot start this action while there are any enemy units (excluding AIRCRAFT) in range of the same objective marker. The action is completed at the end of your next Command phase, provided the unit attempting that action is still within range of that Ancient Machinery objective marker."
 								}
 							]
 						}
