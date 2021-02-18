@@ -271,6 +271,42 @@
 					]
 				}		
 			]
+		},
+		{
+			"faction": "DARK ANGELS",
+			"name": "Dark Angels",
+			"categories": [
+				{
+					"name": "Purge the Enemy",
+					"objectives": [
+						{
+							"id": "EW.08.01.01",
+							"name": "Martial Interdiction",
+							"description": "[i]End Game Objective[/i]\nIf you select this objective, then after both sides have deployed, but before the first turn begins, your opponent must select one CHARACTER model from their army. If their army does not contain any CHARACTER models, then they must select their WARLORD instead. Score victory points at the end of the battle as follows: \n- Score 6 victory points if the selected enemy model was destroyed by a melee attack made by a DARK ANGELS model from your army.\n- Score 3 additional victory points if the selected nemy model was destroyed by a melee attack made by an INNER CIRCLE or DEATHWING model rom your army.\n- Score 6 additional victory points if the DRAK ANGELS model's unit that destroyed the selected enemy model has not itself been destroyed."
+						}
+					]
+				},
+				{
+					"name": "No Mercy, No Respite",
+					"objectives": [
+						{
+							"id": "EW.08.02.01",
+							"name": "Death on the Wind",
+							"description": "[i]Progressive Objective[/i]\nScore 2 victory points each time an enemy unit is destroyed by an attack made by a RAVENWING model from your army that moved 12\" or more during the Movement phase of that turn or made a charge move this turn."
+						}
+					]
+				},
+				{
+					"name": "Battlefield Supremacy",
+					"objectives": [
+						{
+							"id": "EW.08.03.01",
+							"name": "Stubborn Defiance",
+							"description": "[i]Progressive Objective[/i]\nIn your first Command phase, select one objective marker. At the end of each of your Command phases after the first, if you control that objective marker with a DARK ANGELS unit from your army that has the Objective Secure ability, score a number of victory points based on the consecutive number of your Command phases that you have controlled that objective marker with that unit as follows: \n\n[u]Consecutive number of your Command phases| Victory Points[/u]\n                    2  |  2\n                    3  |  3\n                    4  |  5\n                    5  |  5\n\nFor example, in your third Command phase, you have controlled the objective marker with a DARK ANGELS unit for three of our Command phases consecutively, you will score 3 victory points that turn."
+						}
+					]
+				}		
+			]
 		}
 	]
 }
