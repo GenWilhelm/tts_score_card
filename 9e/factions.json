@@ -523,7 +523,7 @@
 						{
 							"id": "EW.13.01.01",
 							"name": "Destroy the Daemon",
-							"description": "[i]End Game Objective[/i]\nIf you select this objective, you score victory points for each unit that was destroyed in the battle by a [b]GREY KNIGHTS[/b] unit from your army as follows:\n\n- <b>DAEMON PRIMARCH</b> unit - score 5 victory points\n- Any other <b>DAEMON MONSTER</b> unit - score 3 victory points\n- <b>DAEMON VEHICLE</b> unit - score 3 victory points\n- Any other <b>DAEMON</b> unit - score 1 victory point"
+							"description": "[i]End Game Objective[/i]\nIf you select this objective, you score victory points for each unit that was destroyed in the battle by a [b]GREY KNIGHTS[/b] unit from your army as follows:\n\n- [b]DAEMON PRIMARCH[/b] unit - score 5 victory points\n- Any other [b]DAEMON MONSTER[/b] unit - score 3 victory points\n- [b]DAEMON VEHICLE[/b] unit - score 3 victory points\n- Any other [b]DAEMON[/b] unit - score 1 victory point"
 						}
 					]
 				},
@@ -533,7 +533,7 @@
 						{
 							"id": "EW.13.02.01",
 							"name": "Teleport Assault",
-							"description": "[i]Progressive Objective[/i]\nScore 3 victory points at the end of the battle round if one or more enemy units were destroyed by a <b>GREY KNIGHTS</b> model from your army that was set up on the battlefield using the Teleport Strike ability, the Teleportation Shunt Stratagem or the Gate of Infinity psychic power during that battle round."
+							"description": "[i]Progressive Objective[/i]\nScore 3 victory points at the end of the battle round if one or more enemy units were destroyed by a [b]GREY KNIGHTS[/b] model from your army that was set up on the battlefield using the Teleport Strike ability, the Teleportation Shunt Stratagem or the Gate of Infinity psychic power during that battle round."
 						}
 					]
 				},
@@ -548,7 +548,7 @@
 								{
 									"id": "EW.13.03.01a",
 									"name": "Purifying Ritual (Psychic Action)",
-									"description": "[i]Psychic Action - Warp Charge 5[/i]\nIn your Psychic phase, this action can be performed by any number of units from your army. In your Psychic phase, if a <b>GREY KNIGHTS PSYKER</b> unit from your army is within 3\" of an objective marker, it can attempt to purify it by performing this psychic action. Each objective marker cannot be purified more than once in the same turn."
+									"description": "[i]Psychic Action - Warp Charge 5[/i]\nIn your Psychic phase, this action can be performed by any number of units from your army. In your Psychic phase, if a [b]GREY KNIGHTS PSYKER[/b] unit from your army is within 3\" of an objective marker, it can attempt to purify it by performing this psychic action. Each objective marker cannot be purified more than once in the same turn."
 								}
 							]
 						}
@@ -566,7 +566,7 @@
 						{
 							"id": "EW.14.01.01",
 							"name": "Stomp 'Em Good",
-							"description": "[i]Progressive Objective[/i]\nIf you select this secondary objective, you can score victory points for the following:\n\n- Score 3 victory points at the end of each battle round if the number of enemy units destroyed by melee attacks made by <b>ORKS</b> units from your army is more than the number of friendly non-<b>GRETCHIN</b> units that were destroyed by melee attacks during this battle round.\n- Score 1 additional victory point at the end of each battle round if the number of enemy units destroyed by melee attacks made by <b>ORKS</b> units from your army is at least 2 and double or more than the number of friendly non-<b>GRETCHIN</b> units that were destroyed by melee attacks during this battle round."
+							"description": "[i]Progressive Objective[/i]\nIf you select this secondary objective, you can score victory points for the following:\n\n- Score 3 victory points at the end of each battle round if the number of enemy units destroyed by melee attacks made by [b]ORKS[/b] units from your army is more than the number of friendly non-[b]GRETCHIN[/b] units that were destroyed by melee attacks during this battle round.\n- Score 1 additional victory point at the end of each battle round if the number of enemy units destroyed by melee attacks made by [b]ORKS[/b] units from your army is at least 2 and double or more than the number of friendly non-[b]GRETCHIN[/b] units that were destroyed by melee attacks during this battle round."
 						}
 					]
 				},
@@ -576,12 +576,12 @@
 						{
 							"id": "EW.14.02.01",
 							"name": "Get da Good Bitz",
-							"description": "[i]Progressive Objective[/i]\nIf you selected this secondary objective, then after both sides have finished deploying, starting with your opponent, the players alternate selecting objective markers that are not within any player's deployment zone to be Good Bitz objective markers, until 3 objective markers have been selected (if there is only one such objective marker, then only that objective marker is a Good Bitz objective marker).\n\n<b>ORKS CORE</b> units from your army can attempt the following action. Score 3 victory points each time a unit from your army completes the Get da Good Bitz action.",
+							"description": "[i]Progressive Objective[/i]\nIf you selected this secondary objective, then after both sides have finished deploying, starting with your opponent, the players alternate selecting objective markers that are not within any player's deployment zone to be Good Bitz objective markers, until 3 objective markers have been selected (if there is only one such objective marker, then only that objective marker is a Good Bitz objective marker).\n\n[b]ORKS CORE[/b] units from your army can attempt the following action. Score 3 victory points each time a unit from your army completes the Get da Good Bitz action.",
 							"actions": [
 								{
 									"id": "EW.14.02.01a",
 									"name": "Get da Good Bitz (Action)",
-									"description": "[i]Action[/i]\nAt the end of your Movement phase, one or more <b>ORKS CORE</b> units from your army can start to perform this action. Each unit from your army that starts to perform this action must be in range of a different Good Bitz objective marker. A unit cannot start this action while there are any enemy units (excluding <b>AIRCRAFT</b>) in range of the same objective marker. The action is completed at the end of your next Command phase, provided the unit attempting that action is still within range of that Good Bitz objective marker."
+									"description": "[i]Action[/i]\nAt the end of your Movement phase, one or more [b]ORKS CORE[/b] units from your army can start to perform this action. Each unit from your army that starts to perform this action must be in range of a different Good Bitz objective marker. A unit cannot start this action while there are any enemy units (excluding [b]AIRCRAFT[/b]) in range of the same objective marker. The action is completed at the end of your next Command phase, provided the unit attempting that action is still within range of that Good Bitz objective marker."
 								}
 							]
 						}
@@ -593,7 +593,7 @@
 						{
 							"id": "EW.14.03.01",
 							"name": "Da Biggest And Da Best",
-							"description": "[i]Progressive Objective[/i]\nIf you select this secondary objective, you score 3 victory points at the end of each battle round for each of the following achieved by your <b>ORKS WARLORD</b>, for a maximum of 5 victory points:\n\n- An enemy <b>MONSTER</b> or <b>VEHICLE</b> unit is destroyed as the result of a melee attack made by this <b>WARLORD</b>.\n- An enemy <b>CHARACTER</b> is destroyed as the result of a melee attack made by this <b>WARLORD</b>.\n- 5 or more enemy models were destroyed as the result of attacks made by this <b>WARLORD</b>."
+							"description": "[i]Progressive Objective[/i]\nIf you select this secondary objective, you score 3 victory points at the end of each battle round for each of the following achieved by your [b]ORKS WARLORD[/b], for a maximum of 5 victory points:\n\n- An enemy [b]MONSTER[/b] or [b]VEHICLE[/b] unit is destroyed as the result of a melee attack made by this [b]WARLORD[/b].\n- An enemy [b]CHARACTER[/b] is destroyed as the result of a melee attack made by this [b]WARLORD[/b].\n- 5 or more enemy models were destroyed as the result of attacks made by this [b]WARLORD[/b]."
 						}
 					]
 				},
@@ -603,7 +603,7 @@
 						{
 							"id": "EW.14.04.01",
 							"name": "Green Tide",
-							"description": "[i]Progressive Objective[/i]\nAt the start of the battle, divide the battlefield into four even quarters. Score 3 victory points at the end of the battle round if two or more battlefield quarters each have an <b>ORKS</b> unit from your army that contains 11 or more models wholly within them. Score 5 victory points at the end of the battle round instead if all four battlefield quarters each have an <b>ORKS</b> unit from your army that contains 11 or more models wholly within them."
+							"description": "[i]Progressive Objective[/i]\nAt the start of the battle, divide the battlefield into four even quarters. Score 3 victory points at the end of the battle round if two or more battlefield quarters each have an [b]ORKS[/b] unit from your army that contains 11 or more models wholly within them. Score 5 victory points at the end of the battle round instead if all four battlefield quarters each have an [b]ORKS[/b] unit from your army that contains 11 or more models wholly within them."
 						}
 					]
 				}
