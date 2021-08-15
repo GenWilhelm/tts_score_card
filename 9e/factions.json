@@ -523,7 +523,7 @@
 						{
 							"id": "EW.13.01.01",
 							"name": "Destroy the Daemon",
-							"description": "[i]End Game Objective[/i]\nIf you select this objective, you score victory points for each unit that was destroyed in the battle by a [b]GREY KNIGHTS[/b] unit from your army as follows:\n<ul><li><b>DAEMON PRIMARCH</b> unit - score 5 victory points</li><li>Any other <b>DAEMON MONSTER</b> unit - score 3 victory points</li><li><b>DAEMON VEHICLE</b> unit - score 3 victory points</li><li>Any other <b>DAEMON</b> unit - score 1 victory point</li></ul>"
+							"description": "[i]End Game Objective[/i]\nIf you select this objective, you score victory points for each unit that was destroyed in the battle by a [b]GREY KNIGHTS[/b] unit from your army as follows:\n\n- <b>DAEMON PRIMARCH</b> unit - score 5 victory points\n- Any other <b>DAEMON MONSTER</b> unit - score 3 victory points\n- <b>DAEMON VEHICLE</b> unit - score 3 victory points\n- Any other <b>DAEMON</b> unit - score 1 victory point"
 						}
 					]
 				},
@@ -543,7 +543,7 @@
 						{
 							"id": "EW.13.03.01",
 							"name": "Purifying Ritual",
-							"description": "[i]Progressive Objective[/i]\nScore a number of victory points at the end of the battle round as shown in the table below, with the number of victory points scored depending on how many units from your army successfully completed the following psychic action that battle round.\n\n<ul><li>1 purified objective -> 1 victory point</li><li>2 purified objectives -> 2 victory points</li><li>3 purified objectives -> 4 victory points</li><li>4+ purified objectives -> 6 victory points</li></ul>",
+							"description": "[i]Progressive Objective[/i]\nScore a number of victory points at the end of the battle round as shown in the table below, with the number of victory points scored depending on how many units from your army successfully completed the following psychic action that battle round.\n\n- 1 purified objective -> 1 victory point\n- 2 purified objectives -> 2 victory points\n- 3 purified objectives -> 4 victory points\n- 4+ purified objectives -> 6 victory points",
 							"actions": [
 								{
 									"id": "EW.13.03.01a",
@@ -566,7 +566,7 @@
 						{
 							"id": "EW.14.01.01",
 							"name": "Stomp 'Em Good",
-							"description": "[i]Progressive Objective[/i]\nIf you select this secondary objective, you can score victory points for the following:\n<ul><li>Score 3 victory points at the end of each battle round if the number of enemy units destroyed by melee attacks made by <b>ORKS</b> units from your army is more than the number of friendly non-<b>GRETCHIN</b> units that were destroyed by melee attacks during this battle round.</li><li>Score 1 additional victory point at the end of each battle round if the number of enemy units destroyed by melee attacks made by <b>ORKS</b> units from your army is at least 2 and double or more than the number of friendly non-<b>GRETCHIN</b> units that were destroyed by melee attacks during this battle round."
+							"description": "[i]Progressive Objective[/i]\nIf you select this secondary objective, you can score victory points for the following:\n\n- Score 3 victory points at the end of each battle round if the number of enemy units destroyed by melee attacks made by <b>ORKS</b> units from your army is more than the number of friendly non-<b>GRETCHIN</b> units that were destroyed by melee attacks during this battle round.\n- Score 1 additional victory point at the end of each battle round if the number of enemy units destroyed by melee attacks made by <b>ORKS</b> units from your army is at least 2 and double or more than the number of friendly non-<b>GRETCHIN</b> units that were destroyed by melee attacks during this battle round."
 						}
 					]
 				},
@@ -593,7 +593,7 @@
 						{
 							"id": "EW.14.03.01",
 							"name": "Da Biggest And Da Best",
-							"description": "[i]Progressive Objective[/i]\nIf you select this secondary objective, you score 3 victory points at the end of each battle round for each of the following achieved by your <b>ORKS WARLORD</b>, for a maximum of 5 victory points::\n<ul><li>An enemy <b>MONSTER</b> or <b>VEHICLE</b> unit is destroyed as the result of a melee attack made by this <b>WARLORD</b>.</li><li>An enemy <b>CHARACTER</b> is destroyed as the result of a melee attack made by this <b>WARLORD</b>.</li><li>5 or more enemy models were destroyed as the result of attacks made by this <b>WARLORD</b>.</li></ul>"
+							"description": "[i]Progressive Objective[/i]\nIf you select this secondary objective, you score 3 victory points at the end of each battle round for each of the following achieved by your <b>ORKS WARLORD</b>, for a maximum of 5 victory points:\n\n- An enemy <b>MONSTER</b> or <b>VEHICLE</b> unit is destroyed as the result of a melee attack made by this <b>WARLORD</b>.\n- An enemy <b>CHARACTER</b> is destroyed as the result of a melee attack made by this <b>WARLORD</b>.\n- 5 or more enemy models were destroyed as the result of attacks made by this <b>WARLORD</b>."
 						}
 					]
 				},
