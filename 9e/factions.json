@@ -618,7 +618,7 @@
 					"objectives": [
 						{
 							"id": "EW.15.01.01",
-							"name": "Bathe Your Blade In The Blood Of Your Foe",
+							"name": "Bathe Your Blade",
 							"description": "[i]End Game Objective[/i]\nAt the start of the first Command phase, you must select one [b]BLACK TEMPLARS CHARACTER[/b] model from your army to issue the challenge and your opponent must select one [b]CHARACTER[/b] model from their army to accept the challenge. If either player does not have a [b]CHARACTER[/b] model, they must instead select their [b]WARLORD[/b].\n\nScore 5 victory points at the end of the battle for each of the following conditions that have been achieved:\n\n- The model that accepted the challenge was destroyed.\n-The model that accepted the challenge was destroyed as the result of a melee attack.\n- The model that accepted the challenge was destroyed as the result of a melee attack made by the model that issued the challenge."
 						}
 					]
@@ -628,7 +628,7 @@
 					"objectives": [
 						{
 							"id": "EW.15.02.01",
-							"name": "Allow Not The Worship Of Unclean Idols",
+							"name": "Allow Not The Worship",
 							"description": "[i]Progressive Objective[/i]\nScore 4 victory points at the end of the battle round if you control one or more objective markers that were controlled by your opponent at the start of the battle round, and a [b]BLACK TEMPLARS CHAPLAIN[/b] unit from your army is within range of that objective marker."
 						}
 					]
@@ -639,7 +639,7 @@
 						{
 							"id": "EW.15.03.01",
 							"name": "Carry Out Your Vows",
-							"description": "[i]Progressive and End Game Objective[/i]\nYou can select this secondary objective if you have selected any Templar Vows. This objective consists of a Progressive Component and an End Game component. You can only score victory points for the End Game component for the Templar Vow that was selected at the end of the Read Mission Briefing step and not any other vows that were selected during the battle.\n\n[i]Progressive component[/i]\nScore 4 victory points at the end of the battle round if the number of enemy units destroyed by melee attacks made by [b]BLACK TEMPLARS[/b] units from your army is greater than the number of friendly [b]BLACK TEMPLARS[/b] units that were destroyed during this battle round. You can score a maximum of 12 victory points during the battle from this component.\n\n[i]End Game component[/i]Score 3 victory points at the end of the battle if any of the following apply:\n\n- The Suffer Not the Unclean to Live vow was selected before the battle and an enemy [b]WARLORD[/b] model was destroyed by a melee attack made by a [b]BLACK TEMPLARS CHARACTER[/b] unit from your army during the battle.\n- The Uphold the Honour of the Emperor vow was selected before this battle and a [b]BLACK TEMPLARS INFANTRY[/b] unit (excluding [b]CHARACTER[/b] units) from your army that is not below Half-strength was in the enemy deployment zone at the end of the battle.\n- The Abhor the Witch, Destroy the Witch vow was selected before this battle and any enemy [b]PSYKER CHARACTER[/b] units were destroyed during the battle.\n- The Accept Any Challenge, No Matter the Odds vow was selected before this battle and an enemy unit with a Starting Strength of 20 or more models or an enemy model with a Wounds characteristic of 20 or more was destroyed during the battle."
+							"description": "[i]Progressive and End Game Objective[/i]\nYou can select this secondary objective if you have selected any Templar Vows. This objective consists of a Progressive Component and an End Game component. You can only score victory points for the End Game component for the Templar Vow that was selected at the end of the Read Mission Briefing step and not any other vows that were selected during the battle.\n\n[i]Progressive component[/i]\nScore 4 victory points at the end of the battle round if the number of enemy units destroyed by melee attacks made by [b]BLACK TEMPLARS[/b] units from your army is greater than the number of friendly [b]BLACK TEMPLARS[/b] units that were destroyed during this battle round. You can score a maximum of 12 victory points during the battle from this component.\n\n[i]End Game component[/i]\nScore 3 victory points at the end of the battle if any of the following apply:\n\n- The Suffer Not the Unclean to Live vow was selected before the battle and an enemy [b]WARLORD[/b] model was destroyed by a melee attack made by a [b]BLACK TEMPLARS CHARACTER[/b] unit from your army during the battle.\n- The Uphold the Honour of the Emperor vow was selected before this battle and a [b]BLACK TEMPLARS INFANTRY[/b] unit (excluding [b]CHARACTER[/b] units) from your army that is not below Half-strength was in the enemy deployment zone at the end of the battle.\n- The Abhor the Witch, Destroy the Witch vow was selected before this battle and any enemy [b]PSYKER CHARACTER[/b] units were destroyed during the battle.\n- The Accept Any Challenge, No Matter the Odds vow was selected before this battle and an enemy unit with a Starting Strength of 20 or more models or an enemy model with a Wounds characteristic of 20 or more was destroyed during the battle."
 						}
 					]
 				}
