@@ -690,7 +690,7 @@
 					"objectives": [
 						{
 							"id": "EW.17.01.01",
-							"name": "Sabotage Critical Location",
+							"name": "Sabotage Location",
 							"description": "[i]Progressive Objective[/i]\nAfter choosing deployment zones, your opponent must place 2 critical location markers on the battlefield. Each of their critical location markers must be more than 9\" away from any battlefield edge and more than 9\" away from their other critical location marker. If both players must place these markers, the players alternate doing so, starting with the Defender.\n\nIf you select this objective, then units from your army can perform the following action.\n\nScore victory points each time a unit from your army completes the Sabotage Critical Location action:\n- 9 victory points if completed on battle round 2\n- 7 victory points if completed on battle round 3\n- 5 victory points if completed on battle round 4\n- 3 victory points if completed on battle round 5\n\nThis secondary objective cannot be scored in the first battle round.",
 							"actions": [
 								{
