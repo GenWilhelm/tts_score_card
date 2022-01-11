@@ -644,6 +644,42 @@
 					]
 				}
 			]
+		},
+		{
+			"faction": "ADEPTUS CUSTODES",
+			"name": "Adeptus Custodes",
+			"categories": [
+				{
+					"name": "No Mercy, No Respite",
+					"objectives": [
+						{
+							"id": "EW.16.01.01",
+							"name": "Might Of Terra",
+							"description": "[i]Progressive Objective[/i]\nScore 4 victory points at the end of the battle round if one or more enemy units were destroyed this battle round and no [b]ADEPTUS CUSTODES[/b] or [b]ANATHEMA PSYKANA[/b] units from your army were destroyed this battle round."
+						}
+					]
+				},
+				{
+					"name": "Battlefield Supremacy",
+					"objectives": [
+						{
+							"id": "EW.16.02.01",
+							"name": "Stand Vigil",
+							"description": "[i]Progressive Objective[/i]\nScore 3 victory points at the end of the battle round if you control more objective markers that are not within either player's deployment zone than your opponent does."
+						}
+					]
+				},
+				{
+					"name": "Purge the Enemy",
+					"objectives": [
+						{
+							"id": "EW.16.03.01",
+							"name": "Auric Mortalis",
+							"description": "[i]End Game Objective[/i]\nIf you select this objective, then before the battle, you must select one unit from your opponent's army that has the [b]PRIMARCH[/b] or [b]SUPREME COMMANDER[/b] keyword to be marked for death. If no such unit exists, select one unit from your opponent's army with the highest points value to be marked for death. [b]AIRCRAFT[/b] units are ignored when selecting a unit to be marked for death.\n\nAt the end of the battle, calculate how many victory points (to a minimum of 0) you score for this objective as follows:\n\n- 5 victory points if the unit you selected to be marked for death was destroyed.\n- 5 victory points if the unit you selected to be marked for death was destroyed as the result of a melee attack made by an [b]ADEPTUS CUSTODES[/b] or [b]ANATHEMA PSYKANA[/b] unit from your army.\n- 5 victory points if both of the above are true and the unit you selected to be marked for death was destroyed more than 6\" away from your deployment zone.\n- -2 victory points for each unit from your army that the unit you selected to be marked for death destroyed."
+						}
+					]
+				}
+			]
 		}
 	]
 }
